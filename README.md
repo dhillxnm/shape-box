@@ -40,6 +40,6 @@ class Shape {
 
 ## Demo
 
-Click [here](https://navjot0210.github.io/shape-factory/) to test the application.
+Click [here](https://dhillxnm.github.io/shape-box/) to test the application.
 
 Thank you for using Shape Factory! Happy coding! 🎉
